@@ -5,6 +5,7 @@
 Each year I will set aside a few goals and employ activities that will facilitate their achievement. A point system will be defined for the aforementioned activities, TBD.
 
 E.g.,
+
 | Activity | Points | Date Completed |
 |----------|--------|----------------|
 
