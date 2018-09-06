@@ -37,12 +37,40 @@ List of books I've read.
 4. *Applied Optimal Estimation* by Arthur Gelb
 5. *The Linux Command Line* by William E Shotts, Jr.
 6. *Get a Financial Life: Personal Finance in your 20's and 30's* by Beth Kobliner
-7.
-8.
-9.
-10
-11.
-12.
-13.
-14.
-15.
+7. *How Linux Works* by Brian Ward
+8. *A Brief History of Time* by Stephen Hawking
+9. *It's Not about the Coffee* by Howard Behar
+10. *Journey Through Genius* by William Dunham
+11. *12 Rules for Life* by Jordan Peterson
+12. *Self-Reliance and Other Essays* by Ralph Waldo Emerson
+13. *The Republic* by Plato
+14. *On Writing Well* by William Zinsser
+15. *Communist Manifesto* by Karl Marx
+16. *A PhD is Not Enough* by Peter J. Feibelman
+17. *The Old Man and the Sea* by Ernest Hemingway
+18. *Animal Farm* by George Orwell
+19. *The Undiscovered Self* by C.G. Jung
+20. *The Odyssey* by Homer
+21. *Beyond Good and Evil* by Friedrich Nietzche
+22. *On the Genealogy of Morals* by Friedrich Nietzche
+23. *The 7 Habits of Highley Effective People* by Stephen Covey
+24. *Fahrenheit 451* by Ray Bradbury
+25. *The Birth of Tragedy* by Friedrich Nietzche
+26. *Meditations* by Marcus Aurelius
+27. *Hamlet* by William Shakespeare
+28. *Macbeth* by William Shakespeare
+29. *Othello* by William Shakespeare
+30. *Ecce Homo* by Friedrich Nietzche
+31. *King Lear* by William Shakespeare
+32. *The Prince* by Niccolo Machiavelli
+33. *The Killer Angels* by Michael Shaara
+34. *The Art of War* by Sun Tzu
+35. *Nicomachean Ethics* by Aristotle
+36. *Jane Eyre* by Charlotte Bronte
+37. *Slaughterhouse-Five* by Kurt Vonnegut
+38. *Farewell to Arms* by Ernest Hemingway
+39. *Thus Spoke Zarathustra* by Friedrich Nietzche
+40. *Junky* by William S. Burroughs
+41. *Twilight of the Idols* by Friedrich Nietzche
+42. *Cat's Cradle* by Kurt Vonnegut
+43. *The Antichrist* by Friedrich Nietzche
