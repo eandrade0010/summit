@@ -1,10 +1,10 @@
 # Summary
-All my intellectual achievements will be housed here:
+All my intellectual achievements will be housed here. My goals in this area are primarily comprised of reading and learning languages.
 
-# Books Read
-## 2018
-1. *Dhando Investor* by Mohnish Pabrai
-2. *Influence: The Psychology of Persuasion* by Dr. Richard Cialdani
-3. *Misbehaving* by Richard Thaler
-4. *Buffett* by Roger Lowenstein
-5. *Awaken the Giant Within* by Tony Robbins
+# Point System
+
+| Type | Points |
+| --- | --- |
+| Complete Duolingo Module | 10 |
+| Finish Book | 100 |
+| Read Book in Foreign Language | 200 |
