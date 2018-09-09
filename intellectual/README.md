@@ -8,3 +8,8 @@ All my intellectual achievements will be housed here. My goals in this area are 
 | Complete Duolingo Module | 10 |
 | Finish Book | 100 |
 | Read Book in Foreign Language | 200 |
+
+| Description | Category | Points | Date Completed |
+| --- | --- | --- | --- |
+| Read *Malcolm X* | Finish Book | 100 | 9/8/2018 |
+| Completed Duolingo Module | French | 10 | 9/9/2018 |
