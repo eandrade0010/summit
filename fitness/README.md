@@ -6,8 +6,8 @@ All my health and fitness goals and development are contained within this direct
   - [Progress](./#progress)
   - [Data]
 - [Diet Regimen](./#diet-regimen)
-- [Workout Plan]
-- [Appendix]
+- [Workout Plan](./#workout-plan)
+- [Appendix](./#appendix)
 
 # Goals
 **2018**
@@ -24,10 +24,10 @@ Total Points = 100
 \* See point system desc
 
 # Diet Regimen
-| Calories | 2340 |
-| Protein | 117g |
-| Carbohydrates | 322g |
-| Fats | 65 g |
+**Calories**: 2340
+**Protein** : 117g
+**Carbohydrates** 322g |
+**Fats** 65 g
 
 # Workout Plan
 **Focus**: Hypertrophy
@@ -43,10 +43,10 @@ Total Points = 100
 
 # Appendix
 ## Point system
-| Type | Points |
-| --- | --- |
-| Increase Lifted Weight | 10 |
-| Successfully Perform new Exercise | 100 |
+| Type | Points | Date Completed
+| --- | --- | --- |
+| Increase Lifted Weight | 10 | XX/XX/XXXX |
+| Successfully Perform new Exercise | 100 | XX/XX/XXXX
 
 
 #* Standing Ab-Wheel Rollout Progress
