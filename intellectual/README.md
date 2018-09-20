@@ -14,4 +14,4 @@ All my intellectual achievements will be housed here. My goals in this area are 
 | Read *Malcolm X* | Finish Book | 100 | 9/8/2018 |
 | Completed Duolingo Module | French | 10 | 9/9/2018 |
 | Read *The Godfather* | Finish Book | 100 | 9/15/2018 |
-| Read *Treasure Island* | Finish Book | 100 | 9/19/2018 |
+| Completed Duolingo Module | French | 10 | 9/19/2018 |
