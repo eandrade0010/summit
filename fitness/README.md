@@ -25,8 +25,11 @@ Total Points = 100
 
 # Diet Regimen
 **Calories**: 2340
+
 **Protein** : 117g
-**Carbohydrates** 322g |
+
+**Carbohydrates** 322g
+
 **Fats** 65 g
 
 # Workout Plan
@@ -49,7 +52,7 @@ Total Points = 100
 | Successfully Perform new Exercise | 100 | XX/XX/XXXX
 
 
-#* Standing Ab-Wheel Rollout Progress
+# Standing Ab-Wheel Rollout Progress
 Steps:
 - [X] Ab-Wheel
 - [X] Swiss Ball Rollout from Plank
