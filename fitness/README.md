@@ -21,7 +21,7 @@ All my health and fitness goals and development are contained within this direct
 
 Total Points = 100
 
-\*See (point system described)[./#point-system-(described)
+\*See [point system described]()./#point-system-(described))
 
 # Diet Regimen
 **Calories**: 2340
