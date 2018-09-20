@@ -21,7 +21,7 @@ All my health and fitness goals and development are contained within this direct
 
 Total Points = 100
 
-\* See point system desc
+\*See (point system described)[./#point-system-(described)
 
 # Diet Regimen
 **Calories**: 2340
@@ -45,7 +45,7 @@ Total Points = 100
 | Sunday | Mobility and Stretching |
 
 # Appendix
-## Point system
+## Point system (described)
 | Type | Points | Date Completed
 | --- | --- | --- |
 | Increase Lifted Weight | 10 | XX/XX/XXXX |
