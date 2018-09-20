@@ -3,9 +3,9 @@ All my health and fitness goals and development are contained within this direct
 
 # Contents
 - [Goals](./#goals)
-  - [Progress]
+  - [Progress](./#progress)
   - [Data]
-- [Diet Regimen]
+- [Diet Regimen](./#diet-regimen)
 - [Workout Plan]
 - [Appendix]
 
