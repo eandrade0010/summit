@@ -18,6 +18,7 @@ All my health and fitness goals and development are contained within this direct
 | Description | Category | Points | Date Completed |
 | --- | --- | --- | --- |
 | Swiss Ball Rollout | New Exercise | 100 | 9/4/2018 |
+
 Total Points = 100
 
 \* See point system desc
@@ -31,6 +32,7 @@ Total Points = 100
 # Workout Plan
 **Focus**: Hypertrophy
 | Day | Muscle Group(s) |
+| ---- | ---- |
 | Monday | Legs |
 | Tuesday | Chest and Tris |
 | Wednesday | Back and Bis |
