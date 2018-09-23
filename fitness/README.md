@@ -11,7 +11,7 @@ All my health and fitness goals and development are contained within this direct
 
 # Goals
 **2018**
-- [ ] Complete first minicut
+- [X] Complete first minicut
 - [ ] Perform standing ab-wheel rollout
 
 ## Progress
@@ -31,7 +31,7 @@ Protein | 117
 Carbohydrates | 322  
 Fats | 65
 
-*Total Calories*: 2340
+*Total Calories* = 2340
 
 # Workout Plan
 
