@@ -4,7 +4,7 @@ All my health and fitness goals and development are contained within this direct
 # Contents
 - [Goals](./#goals)
   - [Progress](./#progress)
-  - [Data]
+  - [Data](./#data)
 - [Diet Regimen](./#diet-regimen)
 - [Workout Plan](./#workout-plan)
 - [Appendix](./#appendix)
@@ -23,7 +23,6 @@ Total Points = 100
 
 \*See [point system described](./#point-system-described)
 ### Data
-#### Body Composition
 ![alt text](./body_comp.jpg?raw=true)
 
 # Diet Regimen
