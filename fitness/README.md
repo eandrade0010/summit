@@ -24,24 +24,21 @@ Total Points = 100
 \*See [point system described](./#point-system-described)
 
 # Diet Regimen
-**Calories**: 2340
-
-**Protein** : 117g
-
-**Carbohydrates** 322g
-
+**Calories**: 2340  
+**Protein** : 117g  
+**Carbohydrates** 322g  
 **Fats** 65 g
 
 # Workout Plan
 **Focus**: Hypertrophy
 
 Day | Muscle Group(s)
- :---- | ----:  
-Monday | Legs
+ ---- | ----  
+Monday | Legs (quad focus)
 Tuesday | Chest and Tris
 Wednesday | Back and Bis
 Thursday | Shoulders
-Friday | Legs
+Friday | Legs (hamstring focus)
 Saturday | Arms and Abs
 Sunday | Mobility and Stretching
 
