@@ -17,8 +17,8 @@ for i, line in enumerate(content):
         continue
     dates.append(mdates.date2num(datetime.strptime(line[0], '%m/%d/%y').date()))
     weight.append(float(line[1]))
-    bf.append(float(line[2]))
-    goal.append(line[3])
+    bf.append(float(line[3]))
+    goal.append(line[4])
 
 
 print(dates)
@@ -34,4 +34,5 @@ ax2 = ax1.twinx()
 ax2.plot_date(dates, bf, '*r')
 ax2.set_ylabel('BF [%]')
 plt.xticks(dates, rotation='vertical')
-plt.show()
+
+plt.savefig('body_comp.jpg')

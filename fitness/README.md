@@ -22,10 +22,13 @@ All my health and fitness goals and development are contained within this direct
 Total Points = 100
 
 \*See [point system described](./#point-system-described)
+### Data
+#### Body Composition
+![alt text](./body_comp.jpg?raw=true)
 
 # Diet Regimen
 
-Macro | Amount (g)
+Macronutrient | Amount (g)
 --- | ---  
 Protein | 117
 Carbohydrates | 322  
@@ -35,7 +38,7 @@ Fats | 65
 
 # Workout Plan
 
-## Block 9/23 - 10/5/2018
+**Block 9/23 - 10/5/2018**  
 **Focus**: Hypertrophy
 
 Day | Muscle Group(s)
