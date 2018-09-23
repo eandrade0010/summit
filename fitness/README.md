@@ -24,10 +24,14 @@ Total Points = 100
 \*See [point system described](./#point-system-described)
 
 # Diet Regimen
-**Calories**: 2340  
-**Protein** : 117g  
-**Carbohydrates** 322g  
-**Fats** 65 g
+
+Macro | Amount (g)
+--- | ---  
+Protein | 117
+Carbohydrates | 322  
+Fats | 65
+
+*Total Calories*: 2340
 
 # Workout Plan
 **Focus**: Hypertrophy
