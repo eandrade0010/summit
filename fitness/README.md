@@ -34,15 +34,16 @@ Total Points = 100
 
 # Workout Plan
 **Focus**: Hypertrophy
-| Day | Muscle Group(s) |
-| ---- | ---- |
-| Monday | Legs |
-| Tuesday | Chest and Tris |
-| Wednesday | Back and Bis |
-| Thursday | Shoulders |
-| Friday | Legs |
-| Saturday | Arms and Abs |
-| Sunday | Mobility and Stretching |
+
+Day | Muscle Group(s)
+ :---- | ----:  
+Monday | Legs
+Tuesday | Chest and Tris
+Wednesday | Back and Bis
+Thursday | Shoulders
+Friday | Legs
+Saturday | Arms and Abs
+Sunday | Mobility and Stretching
 
 # Appendix
 ## Point system (described)
