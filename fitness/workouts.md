@@ -5,12 +5,12 @@ Workouts for current block of training
 
 No. | Workout | Sets | Reps
 --- | --- | --- | ---
-1. | Squats | 3 | 8-10
-2. | Sumo Deadlifts | 3 | 8-10
-3. | BB Weighted Bridge | 3 | 12-15
-4. | Bulgarian Split Squat | 3 | 12-15
-5. | Sissy Squats | 3 | 12-15
-6. | Seated Calves | 3 | 15-20
+1 | Squats | 3 | 8-10
+2 | Sumo Deadlifts | 3 | 8-10
+3 | BB Weighted Bridge | 3 | 12-15
+4 | Bulgarian Split Squat | 3 | 12-15
+5 | Sissy Squats | 3 | 12-15
+6 | Seated Calves | 3 | 15-20
 
 
 # Chest & Triceps
