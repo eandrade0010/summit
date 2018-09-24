@@ -77,3 +77,4 @@ List of books I've read.
 44. *The Autobiography of Malcolm X* as told to Alex Haley
 45. *The Godfather* by Mario Puzo
 46. *Treasure Island* by Robert Louis Stevenson
+47. *El Principito* by Antoine de Saint-Exupery
