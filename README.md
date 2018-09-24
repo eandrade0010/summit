@@ -16,4 +16,4 @@ E.g.,
 - [ ] Abstain from alcohol
 - [ ] Graduate from School
 - [ ] Perform a standing Ab-wheel rollout
-- [ ] Read a book in Spanish
+- [X] Read a book in Spanish
