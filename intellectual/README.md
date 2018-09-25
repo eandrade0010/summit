@@ -16,3 +16,4 @@ All my intellectual achievements will be housed here. My goals in this area are 
 | Read *The Godfather* | Finish Book | 100 | 9/15/2018 |
 | Completed Duolingo Module | French | 10 | 9/19/2018 |
 | Read *El Principito* | Finish Book | 200 | 9/24/2018 |
+| Completed Duolingo Module | French | 10 | 9/25/2018 |
