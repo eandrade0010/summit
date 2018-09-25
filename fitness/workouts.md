@@ -17,11 +17,12 @@ No. | Workout | Sets | Reps
 
 No. | Workout | Sets | Reps
 :---: | --- | --- | ---
-1 | Incline DB Bench Press | 3 | 8, 10, 12
-2 | BB Bench Press | 3 | 8, 10, 12
-3 |
-4 |
-5
+1 | Incline BB Bench Press | 3 | 8, 10, 12
+2 | DB Bench Press | 3 | 8, 10, 12
+3 | Close grip Kneeling Press | 3 | 12-15
+4 | Low Cable Flies Machine | 3 | 12-15
+5 | TRX Hold | 2 | 1 min
+6 | Skull Crushers | 3 | 15-20
 
 # Legs (Hamstring Focus)
 No. | Workout | Sets | Reps
