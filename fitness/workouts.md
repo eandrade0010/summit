@@ -24,6 +24,28 @@ No. | Workout | Sets | Reps
 5 | TRX Hold | 2 | 1 min
 6 | Skull Crushers | 3 | 15-20
 
+# Back and Biceps
+
+No. | Workout | Sets | Reps
+:---: | --- | --- | ---
+1 | Snatch Grip Rack Pull | 3 | 8
+2 | Machine Lat Pulldown | 3 | 8, 10, 12
+3 | T-bar row | 3 | 12-15
+4 | Smith Machine Wide Grip BB Row | 3 | 12-15
+5 | Back Extension | 3 | 12-15
+6 | BB Curl w/ Fat Gripz | 3 | 15-20
+
+# Shoulders
+
+No. | Workout | Sets | Reps
+:---: | --- | --- | ---
+1 | Press | 3 | 8
+2 | Smith Machine Incline Shrug | 3 | 8-12
+3 | Machine Lateral Raise | 3 | 8, 10, 12
+4 | Rope Face Pull | 3 | 12-15
+5 | Rear Delt Flies | 3 | 12-15
+6 | Banded Lateral Raise | 3 | 15-20
+
 # Legs (Hamstring Focus)
 No. | Workout | Sets | Reps
 :---: | --- | --- | ---
