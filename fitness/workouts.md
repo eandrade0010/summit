@@ -55,3 +55,14 @@ No. | Workout | Sets | Reps
 4 | Smith Machine Stiff Leg Deadlift | 3 | 12-15
 5 | Single Leg Bridge Curl | 3 | TBD
 6 | Standing Calves | 3 | 15-20
+
+# Arms & Abs
+No. | Workout | Sets | Reps
+:---: | --- | --- | ---
+1 | Body Saw | 3 | 12-15
+2 | Weighted Leg Raise | 3 | 8-10
+3 | Rope Upper Cable | 3 | 8-12
+4 | Hammer Curl | 3 | 8-12
+5 | Close-grip Bench | 3 | 8-12
+6 | Alternating Preacher Curl | 3 | 15
+7 | Overhead DB Extension | 3 | 15
