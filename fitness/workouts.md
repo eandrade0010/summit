@@ -66,3 +66,14 @@ No. | Workout | Sets | Reps
 5 | Close-grip Bench | 3 | 8-12
 6 | Alternating Preacher Curl | 3 | 15
 7 | Overhead DB Extension | 3 | 15
+
+# Mobility
+Perform 20 minutes of rolling, 20 minutes of mobility work, and 20 minutes stretching. With a focus on the following workouts:
+- T-Spine Bench Mobilization
+- Roller Thoracic Extension
+- Quad Thoracic Rotation
+- Couch Stretch (Quads and Hip Flexors)
+- Open Hip Lunge
+- Spiderman Stretch and Rotation
+- Elevated Hamstring Stretch
+- 90-90 Hip Movement
