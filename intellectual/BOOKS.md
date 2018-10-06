@@ -78,3 +78,4 @@ List of books I've read.
 45. *The Godfather* by Mario Puzo
 46. *Treasure Island* by Robert Louis Stevenson
 47. *El Principito* by Antoine de Saint-Exupery
+48. *Esperanza Renace* by Pam Munoz Ryan
