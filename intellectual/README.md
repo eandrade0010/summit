@@ -21,3 +21,4 @@ All my intellectual achievements will be housed here. My goals in this area are 
 | Completed Duolingo Module | French | 10 | 10/1/2018 |
 | Completed Duolingo Module | French | 10 | 10/5/2018 |
 | Read *Esperanza Renace* | Finish Book in Spanish | 200 | 10/6/2018 |
+| Completed Duolingo Module | French | 10 | 10/7/2018 |
