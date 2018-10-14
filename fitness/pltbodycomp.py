@@ -7,9 +7,8 @@ import argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--filter", help="You can choose to reduce noise of data", action='store_true')
-# parser.add_argument("--", help="You can choose to reduce noise of data", action='store_true')
+parser.add_argument("--type", help="Define either 'bulk' or 'cut'")
 args = parser.parse_args()
-
 
 content = open('body-comp.csv', 'r')
 
@@ -19,7 +18,7 @@ bf = []
 goal = []
 for i, line in enumerate(content):
     line = line.split(',')
-    if i==0 or not line[1]:
+    if i==0 or not line[1] or args.type.lower() not in line[3].lower():
         labels = line
         continue
     dates.append(mdates.date2num(datetime.strptime(line[0], '%m/%d/%y').date()))
@@ -41,3 +40,4 @@ fig.autofmt_xdate()
 fig.legend(loc="upper right")
 plt.title('Body Composition')
 plt.savefig('body_comp.jpg')
+# plt.show()
