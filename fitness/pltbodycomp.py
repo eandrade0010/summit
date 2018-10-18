@@ -8,6 +8,7 @@ import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument("--filter", help="You can choose to reduce noise of data", action='store_true')
 parser.add_argument("--type", help="Define either 'bulk' or 'cut'")
+parser.add_argument("--save", help="Will save as jpg", action="store_true")
 args = parser.parse_args()
 
 content = open('body-comp.csv', 'r')
@@ -39,5 +40,6 @@ ax2.set_ylabel('BF [%]')
 fig.autofmt_xdate()
 fig.legend(loc="upper right")
 plt.title('Body Composition')
-# plt.savefig('body_comp.jpg')
+
+if args.save: plt.savefig('body_comp.jpg')
 plt.show()
