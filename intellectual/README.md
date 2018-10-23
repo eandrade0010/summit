@@ -28,3 +28,5 @@ All my intellectual achievements will be housed here. My goals in this area are 
 | Completed Duolingo Module | French | 10 | 10/16/2018 |
 | Completed Duolingo Module | French | 10 | 10/17/2018 |
 | Read *The Brothers Karamazov* | Finish Book | 100 | 10/21/2018 |
+| Completed Duolingo Module | French | 10 | 10/22/2018 |
+| Read *The Death of Ivan Ilyich* | Finish Book | 100 | 10/23/2018 |
