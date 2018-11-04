@@ -1,71 +1,71 @@
 # Summary
 Workouts for current block of training
 
-# Legs (Quad focus)
-
+# Upper Day 1
 No. | Workout | Sets | Reps
 :---: | --- | --- | ---
-1 | Squats | 3 | 8-10
-2 | Sumo Deadlifts | 3 | 8-10
-3 | BB Weighted Bridge | 3 | 12-15
-4 | Bulgarian Split Squat | 3 | 12-15
-5 | Sissy Squats | 3 | 12-15
-6 | Seated Calves | 3 | 15-20
+1 | Bench Press | 3 | 6-10
+2 | Barbell Row | 3 | 6-10
+3 | Seated Overhead Press | 3 | 8-12
+4 | Dips | 3 | 10-15
+5 | Pull-ups | 3 | 10-15
+6 | Lateral Raise | 3 | 12-15
+7 | Barbell Curl | 3 | 8-12
+8 | Skull Crusher | 3 | 8-12
 
-
-# Chest & Triceps
-
+# Lower Day 1
 No. | Workout | Sets | Reps
 :---: | --- | --- | ---
-1 | Incline BB Bench Press | 3 | 8, 10, 12
-2 | DB Bench Press | 3 | 8, 10, 12
-3 | Close grip Kneeling Press | 3 | 12-15
-4 | Low Cable Flies Machine | 3 | 12-15
-5 | TRX Hold | 2 | 1 min
-6 | Skull Crushers | 3 | 15-20
+1 | Squats | 3 | 6-10
+2 | Sumo Deadlifts | 3 | 6-10
+3 | Barbell Hip Thrusts | 3 | 10-12
+4 | Lying Leg Curl | 3 | 10-12
+5 | Bulgarian Split Squats | 3 | 12-15
+6 | Single-Leg Deadlift | 3 | 12-15
+7 | Seated Calves | 3 | 8-12
+8 | Back Extension | 3 | 10-15
 
-# Back and Biceps
-
+# Cardio & Abs
 No. | Workout | Sets | Reps
 :---: | --- | --- | ---
-1 | Snatch Grip Rack Pull | 3 | 8
-2 | Machine Lat Pulldown | 3 | 8, 10, 12
-3 | T-bar row | 3 | 12-15
-4 | Smith Machine Wide Grip BB Row | 3 | 12-15
-5 | Back Extension | 3 | 12-15
-6 | BB Curl w/ Fat Gripz | 3 | 15-20
+1 | Body Saw | 4 | AMRAP
+2 | Sled Push | 4 | x
+3 | Weighted Leg Raise | 4 | 10-15
+4 | Farmer Carries | 4 | x
+5 | Battle Rope | x | x
 
-# Shoulders
 
+# Upper Day 2
 No. | Workout | Sets | Reps
 :---: | --- | --- | ---
-1 | Press | 3 | 8
-2 | Smith Machine Incline Shrug | 3 | 8-12
-3 | Machine Lateral Raise | 3 | 8, 10, 12
-4 | Rope Face Pull | 3 | 12-15
-5 | Rear Delt Flies | 3 | 12-15
-6 | Banded Lateral Raise | 3 | 15-20
+1 | Press | 3 | 6-10
+2 | Snatch Rack Deadlift | 3 | 4-8
+3 | Incline Dumbbell Press | 3 | 8-12
+4 | Face Pull | 3 | 12-15
+5 | Wide-grip Seated Cable Row | 3 | 15-20
+6 | Cable Flies | 3 | 12-15
+7 | Alternating Dumbbell Curl | 3 | 8-12
+8 | Rope Tricep Extension | 3 | 8-12
 
-# Legs (Hamstring Focus)
+# Lower Day 2
 No. | Workout | Sets | Reps
 :---: | --- | --- | ---
-1 | Banded Squats | 3 | 8-10
-2 | Hamstring Leg Press | 3 | 8-10
-3 | Step ups | 3 | TBD
-4 | Smith Machine Stiff Leg Deadlift | 3 | 12-15
-5 | Single Leg Bridge Curl | 3 | TBD
-6 | Standing Calves | 3 | 15-20
+1 | Squats | 3 | 6-10
+2 | Romanian Deadlifts | 3 | 6-10
+3 | Lunges | 3 |
+4 | Swiss Ball Leg Curl | 3 | 8-12
+5 | Front Squats | 3 | 10-12
+6 | Hip Bands | 3 | 15-20
+7 | Standing Calves | 3 | 8-12
+8 | Back Extension | 3 | 10-15
 
-# Arms & Abs
+# Traps & Cardio
 No. | Workout | Sets | Reps
 :---: | --- | --- | ---
-1 | Body Saw | 3 | 12-15
-2 | Weighted Leg Raise | 3 | 8-10
-3 | Rope Upper Cable | 3 | 8-12
-4 | Hammer Curl | 3 | 8-12
-5 | Close-grip Bench | 3 | 8-12
-6 | Alternating Preacher Curl | 3 | 15
-7 | Overhead DB Extension | 3 | 15
+1 | Shrugs | 3 | 12-15
+2 | Wide grip Upright Row | 3 | 12-15
+3 | Kettle Bell Swings
+
 
 # Mobility
 Perform 20 minutes of rolling, 20 minutes of mobility work, and 20 minutes stretching. With a focus on the following workouts:

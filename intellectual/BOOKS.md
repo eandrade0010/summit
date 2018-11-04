@@ -82,3 +82,4 @@ List of books I've read.
 49. *The Brothers Karamazov* By Fyodor Dostoevsky
 50. *The Death of Ivan Ilyich* by Leo Tolstoy
 51. *Blink* by Malcolm Gladwell
+52. *The Master and Margarita* by Mikhail Bulgakov

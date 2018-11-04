@@ -37,7 +37,18 @@ Fats | 65
 
 # Workout Plan
 
-**Block 9/23 - 10/5/2018**  
+**Block 11/4/2018**
+Day | Emphasis
+---- | ----  
+Monday | Upper Body
+Tuesday | Lower Body
+Wednesday | Abs & Cardio
+Thursday | Upper
+Friday | Lower
+Saturday | Traps & Cardio
+Sunday | Mobility and Stretching
+
+**Block 9/23 - 11/4/2018**  
 **Focus**: Hypertrophy
 
 Day | Muscle Group(s)
@@ -49,6 +60,8 @@ Thursday | Shoulders
 Friday | Legs (hamstring focus)
 Saturday | Arms and Abs
 Sunday | Mobility and Stretching
+
+
 
 # Appendix
 ## Point system (described)
