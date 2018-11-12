@@ -34,3 +34,6 @@ All my intellectual achievements will be housed here. My goals in this area are 
 | Completed Duolingo Module | French | 10 | 10/27/2018 |
 | Completed Duolingo Module | French | 10 | 11/03/2018 |
 | Read *The Master and Margarita* | Finish Book | 100 | 11/03/2018
+| Read *The 4-Hour Work Week* | Finish Book | 100 | 11/06/2018
+| Read *Discourse on Method* | Finish Book | 100 | 11/06/2018
+| Completed Duolingo Module | French | 10 | 11/10/2018 |

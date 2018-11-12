@@ -83,3 +83,5 @@ List of books I've read.
 50. *The Death of Ivan Ilyich* by Leo Tolstoy
 51. *Blink* by Malcolm Gladwell
 52. *The Master and Margarita* by Mikhail Bulgakov
+53. *The 4-Hour Work Week* by Timothy Ferris
+54. *Discourse on Method* by Rene Descartes
