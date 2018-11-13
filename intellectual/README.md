@@ -37,3 +37,4 @@ All my intellectual achievements will be housed here. My goals in this area are 
 | Read *The 4-Hour Work Week* | Finish Book | 100 | 11/06/2018
 | Read *Discourse on Method* | Finish Book | 100 | 11/06/2018
 | Completed Duolingo Module | French | 10 | 11/10/2018 |
+| Completed Duolingo Module | French | 10 | 11/11/2018 |
