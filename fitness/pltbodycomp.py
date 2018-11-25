@@ -27,6 +27,23 @@ for i, line in enumerate(content):
     bf.append(float(line[2]))
     goal.append(line[3])
 
+# AVERAGE
+avg_weight = [0]*len(weight)
+avg_bf = [0]*len(bf)
+for i in range(len(weight)):
+    if i == 0:
+        avg_weight[i]= (weight[i]+weight[i+1])/2
+        avg_bf[i]= (bf[i]+bf[i+1])/2
+    elif i == len(weight)-1:
+        avg_weight[i] = (weight[i]+weight[i-1])/2
+        avg_bf[i] = (bf[i]+bf[i-1])/2
+    else:
+        avg_weight[i] = (weight[i-1]+weight[i]+weight[i+1])/3
+        avg_bf[i] = (bf[i-1]+bf[i]+bf[i+1])/3
+weight = avg_weight
+bf = avg_bf
+
+# PLOTTING
 fig, ax1 = plt.subplots()
 ax1.plot_date(dates, weight, 'k', label="Weight")
 ax1.set_xlabel('Date')
@@ -39,7 +56,8 @@ ax2.set_ylabel('BF [%]')
 
 fig.autofmt_xdate()
 fig.legend(loc="upper right")
-plt.title('Body Composition')
+plt.title('Body Composition with Average Filter')
 
 if args.save: plt.savefig('body_comp.jpg')
 plt.show()
+# print(avg_weight)
