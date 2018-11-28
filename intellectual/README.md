@@ -40,3 +40,5 @@ All my intellectual achievements will be housed here. My goals in this area are 
 | Completed Duolingo Module | French | 10 | 11/11/2018 |
 | Completed Duolingo Module | French | 10 | 11/15/2018 |
 | Completed Duolingo Module | French | 10 | 11/23/2018 |
+| Completed Duolingo Module | French | 10 | 11/26/2018 |
+| Completed Duolingo Module | French | 10 | 11/27/2018 |
