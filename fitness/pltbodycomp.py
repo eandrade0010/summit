@@ -40,11 +40,23 @@ for i in range(len(weight)):
     else:
         avg_weight[i] = (weight[i-1]+weight[i]+weight[i+1])/3
         avg_bf[i] = (bf[i-1]+bf[i]+bf[i+1])/3
+
+change_weight = []
+week = []
+for i in range(0,len(weight)-7,7):
+    print(i)
+    week.append(i)
+    change_weight.append(weight[i+7]-weight[i])
+
 weight = avg_weight
 bf = avg_bf
 
+
+#
+print(change_weight)
+
 # PLOTTING
-fig, ax1 = plt.subplots()
+fig, (ax1,ax3) = plt.subplots(2,1)
 ax1.plot_date(dates, weight, 'k', label="Weight")
 ax1.set_xlabel('Date')
 ax1.set_ylabel('Weight [lbs]')
@@ -53,11 +65,15 @@ ax2 = ax1.twinx()
 ax2.plot_date(dates, bf, 'r', label="BF")
 ax2.set_ylabel('BF [%]')
 
+ax3.plot(week,change_weight, '--k', label="Change in Weight")
+
+# ax4 = ax3.twinx()
+# ax4.plot_date(dates, change_bf, '--r', label="Change in BF")
 
 fig.autofmt_xdate()
 fig.legend(loc="upper right")
-plt.title('Body Composition with Average Filter')
 
+fig.suptitle('Body Composition with Average Filter')
 if args.save: plt.savefig('body_comp.jpg')
 plt.show()
 # print(avg_weight)
