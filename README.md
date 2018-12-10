@@ -12,8 +12,8 @@ E.g.,
 
 # Goals for 2018:
 - [ ] Save $20,000
-- [ ] Land a full-time job
-- [ ] Abstain from alcohol
+- [X] Land a full-time job
+- [X] Abstain from alcohol
 - [ ] Graduate from School
-- [ ] Perform a standing Ab-wheel rollout
+- [X] Perform a standing Ab-wheel rollout
 - [X] Read a book in Spanish

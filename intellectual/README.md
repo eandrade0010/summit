@@ -43,3 +43,4 @@ All my intellectual achievements will be housed here. My goals in this area are 
 | Completed Duolingo Module | French | 10 | 11/26/2018 |
 | Completed Duolingo Module | French | 10 | 11/27/2018 |
 | Read *Critique of Pure Reason* | Finish Book | 100 | 11/27/2018
+| Read *The Rise of Theodore Roosevelt* | Finish Book | 100 | 12/9/2018

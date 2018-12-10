@@ -86,3 +86,4 @@ List of books I've read.
 53. *The 4-Hour Work Week* by Timothy Ferris
 54. *Discourse on Method* by Rene Descartes
 55. *Critique of Pure Reason* by Immanuel Kant
+56. *The Rise of Theodore Roosevelt* by Edmund Morris
