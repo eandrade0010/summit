@@ -12,7 +12,6 @@ parser.add_argument("--save", help="Will save as jpg", action="store_true")
 args = parser.parse_args()
 
 content = open('body-comp.csv', 'r')
-
 dates = []
 weight = []
 bf = []
@@ -60,7 +59,7 @@ bf = avg_bf
 
 
 #
-print(change_weight)
+# print(change_weight)
 
 # PLOTTING
 fig1, ax1 = plt.subplots()
