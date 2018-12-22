@@ -88,3 +88,4 @@ List of books I've read.
 55. *Critique of Pure Reason* by Immanuel Kant
 56. *The Rise of Theodore Roosevelt* by Edmund Morris
 57. *Metaphysics* by Aristotle
+58. *Paradise Lost* by John Milton
