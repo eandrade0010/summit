@@ -90,3 +90,4 @@ List of books I've read.
 57. *Metaphysics* by Aristotle
 58. *Paradise Lost* by John Milton
 59. *Politics* by Aristotle
+60. *Essays of Schopehnauer* by Arthur Schopehnauer
