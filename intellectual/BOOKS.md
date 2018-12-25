@@ -89,3 +89,4 @@ List of books I've read.
 56. *The Rise of Theodore Roosevelt* by Edmund Morris
 57. *Metaphysics* by Aristotle
 58. *Paradise Lost* by John Milton
+59. *Politics* by Aristotle

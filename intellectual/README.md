@@ -47,3 +47,4 @@ All my intellectual achievements will be housed here. My goals in this area are 
 | Completed Duolingo Module | French | 10 | 12/16/2018 |
 | Read *Metaphysics* | Finish Book | 100 | 12/9/2018
 | Read *Paradise Lost* | Finish Book | 100 | 12/21/2018
+| Read *Politics* | Finish Book | 100 | 12/24/2018
