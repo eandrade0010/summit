@@ -49,3 +49,4 @@ All my intellectual achievements will be housed here. My goals in this area are 
 | Read *Paradise Lost* | Finish Book | 100 | 12/21/2018
 | Read *Politics* | Finish Book | 100 | 12/24/2018
 | Read *Essays of Schopehnauer* | Finish Book | 100 | 12/25/2018
+| Read *A Connecticut Yankee in King Arthur's Court* | Finish Book | 100 | 12/28/2018
