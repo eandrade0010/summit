@@ -92,3 +92,5 @@ List of books I've read.
 59. *Politics* by Aristotle
 60. *Essays of Schopehnauer* by Arthur Schopehnauer
 61. *A Connecticut Yankee in King Arthur's Court* by Mark Twain
+62. *Imperialism the Highest Stage of Capitalism* by V.I. Lenin
+63. *The Satanic Bible* by Anton Szandor LaVey

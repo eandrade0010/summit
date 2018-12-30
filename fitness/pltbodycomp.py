@@ -50,7 +50,6 @@ for i in range(len(weight)):
 change_weight = []
 week = []
 for i in range(0,len(weight)-7,7):
-    print(i)
     week.append(int(i/7))
     change_weight.append(weight[i+7]-weight[i])
 

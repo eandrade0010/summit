@@ -50,3 +50,5 @@ All my intellectual achievements will be housed here. My goals in this area are 
 | Read *Politics* | Finish Book | 100 | 12/24/2018
 | Read *Essays of Schopehnauer* | Finish Book | 100 | 12/25/2018
 | Read *A Connecticut Yankee in King Arthur's Court* | Finish Book | 100 | 12/28/2018
+| Read *Imperialism the Highest Stage of Capitalism* | Finish Book | 100 | 12/29/2018
+| Read *The Satanic Bible* | Finish Book | 100 | 12/30/2018
