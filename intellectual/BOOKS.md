@@ -94,3 +94,6 @@ List of books I've read.
 61. *A Connecticut Yankee in King Arthur's Court* by Mark Twain
 62. *Imperialism the Highest Stage of Capitalism* by V.I. Lenin
 63. *The Satanic Bible* by Anton Szandor LaVey
+
+## 2019
+1. *An Enquiry Concerning Human Understanding* by David Hume
