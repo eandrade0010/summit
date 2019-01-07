@@ -97,3 +97,4 @@ List of books I've read.
 
 ## 2019
 1. *An Enquiry Concerning Human Understanding* by David Hume
+2. *The Varieties of Religious Experience* by William James
