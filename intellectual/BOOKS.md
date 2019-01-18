@@ -98,3 +98,6 @@ List of books I've read.
 ## 2019
 1. *An Enquiry Concerning Human Understanding* by David Hume
 2. *The Varieties of Religious Experience* by William James
+3. *Heart of Darkness* by Joseph Conrad
+4. *Cancer Ward* by Aleksandr Solzhenitsyn
+5. *The Call of the Wild* by Jack London
