@@ -103,3 +103,5 @@ List of books I've read.
 5. *The Call of the Wild* by Jack London
 6. *Oil!* by Upton Sinclair
 7. *State and Revolution* by V.I. Lenin
+8. *On Trails* by Robert Moor
+9. *Ethics* by Benedict de Spinoza
