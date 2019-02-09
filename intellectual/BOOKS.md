@@ -105,3 +105,5 @@ List of books I've read.
 7. *State and Revolution* by V.I. Lenin
 8. *On Trails* by Robert Moor
 9. *Ethics* by Benedict de Spinoza
+10. *Mythology* by Edith Hamilton
+11. *Theodore Rex* by Edmund Morris
