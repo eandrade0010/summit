@@ -107,3 +107,5 @@ List of books I've read.
 9. *Ethics* by Benedict de Spinoza
 10. *Mythology* by Edith Hamilton
 11. *Theodore Rex* by Edmund Morris
+12. *Walden and Civil Disobedience* by Henry David Thoreau
+13. *Civilization and its Discontents* by Sigmund Freud
